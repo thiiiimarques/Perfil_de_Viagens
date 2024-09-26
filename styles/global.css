@@ -16,7 +16,7 @@
    --font-family: "Poppins", sans-serif;
    --heading1: bold 32px/125% var(--font-family);
    --paragraph-md: 14px/170% var(--font-family);
-   --paragraph-sm: 12px/170px var(--font-family);
+   --paragraph-sm: 12px var(--font-family);
    --nav-paragraph: 16px/150% var(--font-family);
 
 }
