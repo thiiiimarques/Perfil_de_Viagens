@@ -2,13 +2,13 @@
 
 ___
 
-Uma página criada para compartilhar **experiências de viagens incríveis** realizadas pelo mundo! Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em **HTML** e **CSS**, criando uma interface visualmente agradável, responsiva e de fácil navegação.
+Uma página criada para compartilhar **experiências de viagens incríveis** realizadas pelo mundo! Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em **HTML** e **CSS**, criando uma interface visualmente agradável.
 
 ---
 
 ## Sobre o Projeto
 
-O **Perfil de Viagens** foi concebido para ser um espaço onde é possível registrar memórias de viagens, como locais visitados, culturas exploradas e dicas para quem deseja embarcar em aventuras semelhantes. A página apresenta um design envolvente e moderno, planejado inicialmente no **Figma**, com layouts para dispositivos móveis e desktop.
+O **Perfil de Viagens** foi concebido para ser um espaço onde é possível registrar memórias de viagens, como locais visitados, culturas exploradas e dicas para quem deseja embarcar em aventuras semelhantes. A página apresenta um design simples e eficiente, no qual foi criado no **Figma** e posteriormente programado no **HTML** e **CSS**.
 
 ---
 
